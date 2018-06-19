@@ -6,7 +6,7 @@ namespace NaggerknifeBotV2
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Discord!");
         }
     }
 }
