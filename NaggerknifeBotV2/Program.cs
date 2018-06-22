@@ -18,6 +18,8 @@ namespace NaggerknifeBotV2
                 Token = "ABC",
                 SocketConfig = SocketConfig.GetDefault()
             };
+
+            var connection= Unity.Resolve<Connection>();
         }
     }
 
